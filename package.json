@@ -1,7 +1,7 @@
 {
-    "name": "ai4life-bot-demo",
+    "name": "shieldxtransbotter",
     "version": "0.0.1",
-    "description": "AI4Life Demo",
+    "description": "ShieldX Botchat",
     "dependencies": {
         "express": "^4.15.2",
         "google-translate-api-browser": "^1.1.71",
@@ -10,7 +10,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "repository": "https://github.com/huylv69/trans-bot-demo",
+    "repository": "https://github.com/tonyle9/shieldxtransbotter",
     "keywords": [
         "node",
         "express",
