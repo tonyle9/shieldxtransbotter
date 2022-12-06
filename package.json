@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "ShieldX Botchat",
     "dependencies": {
-        "express": "^4.15.2",
+        "express": "^4.18.2",
         "google-translate-api-browser": "^1.1.71",
         "socket.io": "^1.7.3"
     },
